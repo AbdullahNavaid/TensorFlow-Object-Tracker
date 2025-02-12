@@ -1,0 +1,736 @@
+item {
+  id: 0
+  name: 'unlabeled'
+}
+item {
+  id: 1
+  name: 'person'
+}
+item {
+  id: 2
+  name: 'bicycle'
+}
+item {
+  id: 3
+  name: 'car'
+}
+item {
+  id: 4
+  name: 'motorcycle'
+}
+item {
+  id: 5
+  name: 'airplane'
+}
+item {
+  id: 6
+  name: 'bus'
+}
+item {
+  id: 7
+  name: 'train'
+}
+item {
+  id: 8
+  name: 'truck'
+}
+item {
+  id: 9
+  name: 'boat'
+}
+item {
+  id: 10
+  name: 'traffic'
+}
+item {
+  id: 11
+  name: 'fire'
+}
+item {
+  id: 12
+  name: 'street'
+}
+item {
+  id: 13
+  name: 'stop'
+}
+item {
+  id: 14
+  name: 'parking'
+}
+item {
+  id: 15
+  name: 'bench'
+}
+item {
+  id: 16
+  name: 'bird'
+}
+item {
+  id: 17
+  name: 'cat'
+}
+item {
+  id: 18
+  name: 'dog'
+}
+item {
+  id: 19
+  name: 'horse'
+}
+item {
+  id: 20
+  name: 'sheep'
+}
+item {
+  id: 21
+  name: 'cow'
+}
+item {
+  id: 22
+  name: 'elephant'
+}
+item {
+  id: 23
+  name: 'bear'
+}
+item {
+  id: 24
+  name: 'zebra'
+}
+item {
+  id: 25
+  name: 'giraffe'
+}
+item {
+  id: 26
+  name: 'hat'
+}
+item {
+  id: 27
+  name: 'backpack'
+}
+item {
+  id: 28
+  name: 'umbrella'
+}
+item {
+  id: 29
+  name: 'shoe'
+}
+item {
+  id: 30
+  name: 'eye'
+}
+item {
+  id: 31
+  name: 'handbag'
+}
+item {
+  id: 32
+  name: 'tie'
+}
+item {
+  id: 33
+  name: 'suitcase'
+}
+item {
+  id: 34
+  name: 'frisbee'
+}
+item {
+  id: 35
+  name: 'skis'
+}
+item {
+  id: 36
+  name: 'snowboard'
+}
+item {
+  id: 37
+  name: 'sports'
+}
+item {
+  id: 38
+  name: 'kite'
+}
+item {
+  id: 39
+  name: 'baseball'
+}
+item {
+  id: 40
+  name: 'baseball'
+}
+item {
+  id: 41
+  name: 'skateboard'
+}
+item {
+  id: 42
+  name: 'surfboard'
+}
+item {
+  id: 43
+  name: 'tennis'
+}
+item {
+  id: 44
+  name: 'bottle'
+}
+item {
+  id: 45
+  name: 'plate'
+}
+item {
+  id: 46
+  name: 'wine'
+}
+item {
+  id: 47
+  name: 'cup'
+}
+item {
+  id: 48
+  name: 'fork'
+}
+item {
+  id: 49
+  name: 'knife'
+}
+item {
+  id: 50
+  name: 'spoon'
+}
+item {
+  id: 51
+  name: 'bowl'
+}
+item {
+  id: 52
+  name: 'banana'
+}
+item {
+  id: 53
+  name: 'apple'
+}
+item {
+  id: 54
+  name: 'sandwich'
+}
+item {
+  id: 55
+  name: 'orange'
+}
+item {
+  id: 56
+  name: 'broccoli'
+}
+item {
+  id: 57
+  name: 'carrot'
+}
+item {
+  id: 58
+  name: 'hot'
+}
+item {
+  id: 59
+  name: 'pizza'
+}
+item {
+  id: 60
+  name: 'donut'
+}
+item {
+  id: 61
+  name: 'cake'
+}
+item {
+  id: 62
+  name: 'chair'
+}
+item {
+  id: 63
+  name: 'couch'
+}
+item {
+  id: 64
+  name: 'potted'
+}
+item {
+  id: 65
+  name: 'bed'
+}
+item {
+  id: 66
+  name: 'mirror'
+}
+item {
+  id: 67
+  name: 'dining'
+}
+item {
+  id: 68
+  name: 'window'
+}
+item {
+  id: 69
+  name: 'desk'
+}
+item {
+  id: 70
+  name: 'toilet'
+}
+item {
+  id: 71
+  name: 'door'
+}
+item {
+  id: 72
+  name: 'tv'
+}
+item {
+  id: 73
+  name: 'laptop'
+}
+item {
+  id: 74
+  name: 'mouse'
+}
+item {
+  id: 75
+  name: 'remote'
+}
+item {
+  id: 76
+  name: 'keyboard'
+}
+item {
+  id: 77
+  name: 'cell'
+}
+item {
+  id: 78
+  name: 'microwave'
+}
+item {
+  id: 79
+  name: 'oven'
+}
+item {
+  id: 80
+  name: 'toaster'
+}
+item {
+  id: 81
+  name: 'sink'
+}
+item {
+  id: 82
+  name: 'refrigerator'
+}
+item {
+  id: 83
+  name: 'blender'
+}
+item {
+  id: 84
+  name: 'book'
+}
+item {
+  id: 85
+  name: 'clock'
+}
+item {
+  id: 86
+  name: 'vase'
+}
+item {
+  id: 87
+  name: 'scissors'
+}
+item {
+  id: 88
+  name: 'teddy'
+}
+item {
+  id: 89
+  name: 'hair'
+}
+item {
+  id: 90
+  name: 'toothbrush'
+}
+item {
+  id: 91
+  name: 'hair'
+}
+item {
+  id: 92
+  name: 'banner'
+}
+item {
+  id: 93
+  name: 'blanket'
+}
+item {
+  id: 94
+  name: 'branch'
+}
+item {
+  id: 95
+  name: 'bridge'
+}
+item {
+  id: 96
+  name: 'building'
+}
+item {
+  id: 97
+  name: 'bush'
+}
+item {
+  id: 98
+  name: 'cabinet'
+}
+item {
+  id: 99
+  name: 'cage'
+}
+item {
+  id: 100
+  name: 'cardboard'
+}
+item {
+  id: 101
+  name: 'carpet'
+}
+item {
+  id: 102
+  name: 'ceiling'
+}
+item {
+  id: 103
+  name: 'ceiling'
+}
+item {
+  id: 104
+  name: 'cloth'
+}
+item {
+  id: 105
+  name: 'clothes'
+}
+item {
+  id: 106
+  name: 'clouds'
+}
+item {
+  id: 107
+  name: 'counter'
+}
+item {
+  id: 108
+  name: 'cupboard'
+}
+item {
+  id: 109
+  name: 'curtain'
+}
+item {
+  id: 110
+  name: 'desk'
+}
+item {
+  id: 111
+  name: 'dirt'
+}
+item {
+  id: 112
+  name: 'door'
+}
+item {
+  id: 113
+  name: 'fence'
+}
+item {
+  id: 114
+  name: 'floor'
+}
+item {
+  id: 115
+  name: 'floor'
+}
+item {
+  id: 116
+  name: 'floor'
+}
+item {
+  id: 117
+  name: 'floor'
+}
+item {
+  id: 118
+  name: 'floor'
+}
+item {
+  id: 119
+  name: 'flower'
+}
+item {
+  id: 120
+  name: 'fog'
+}
+item {
+  id: 121
+  name: 'food'
+}
+item {
+  id: 122
+  name: 'fruit'
+}
+item {
+  id: 123
+  name: 'furniture'
+}
+item {
+  id: 124
+  name: 'grass'
+}
+item {
+  id: 125
+  name: 'gravel'
+}
+item {
+  id: 126
+  name: 'ground'
+}
+item {
+  id: 127
+  name: 'hill'
+}
+item {
+  id: 128
+  name: 'house'
+}
+item {
+  id: 129
+  name: 'leaves'
+}
+item {
+  id: 130
+  name: 'light'
+}
+item {
+  id: 131
+  name: 'mat'
+}
+item {
+  id: 132
+  name: 'metal'
+}
+item {
+  id: 133
+  name: 'mirror'
+}
+item {
+  id: 134
+  name: 'moss'
+}
+item {
+  id: 135
+  name: 'mountain'
+}
+item {
+  id: 136
+  name: 'mud'
+}
+item {
+  id: 137
+  name: 'napkin'
+}
+item {
+  id: 138
+  name: 'net'
+}
+item {
+  id: 139
+  name: 'paper'
+}
+item {
+  id: 140
+  name: 'pavement'
+}
+item {
+  id: 141
+  name: 'pillow'
+}
+item {
+  id: 142
+  name: 'plant'
+}
+item {
+  id: 143
+  name: 'plastic'
+}
+item {
+  id: 144
+  name: 'platform'
+}
+item {
+  id: 145
+  name: 'playingfield'
+}
+item {
+  id: 146
+  name: 'railing'
+}
+item {
+  id: 147
+  name: 'railroad'
+}
+item {
+  id: 148
+  name: 'river'
+}
+item {
+  id: 149
+  name: 'road'
+}
+item {
+  id: 150
+  name: 'rock'
+}
+item {
+  id: 151
+  name: 'roof'
+}
+item {
+  id: 152
+  name: 'rug'
+}
+item {
+  id: 153
+  name: 'salad'
+}
+item {
+  id: 154
+  name: 'sand'
+}
+item {
+  id: 155
+  name: 'sea'
+}
+item {
+  id: 156
+  name: 'shelf'
+}
+item {
+  id: 157
+  name: 'sky'
+}
+item {
+  id: 158
+  name: 'skyscraper'
+}
+item {
+  id: 159
+  name: 'snow'
+}
+item {
+  id: 160
+  name: 'solid'
+}
+item {
+  id: 161
+  name: 'stairs'
+}
+item {
+  id: 162
+  name: 'stone'
+}
+item {
+  id: 163
+  name: 'straw'
+}
+item {
+  id: 164
+  name: 'structural'
+}
+item {
+  id: 165
+  name: 'table'
+}
+item {
+  id: 166
+  name: 'tent'
+}
+item {
+  id: 167
+  name: 'textile'
+}
+item {
+  id: 168
+  name: 'towel'
+}
+item {
+  id: 169
+  name: 'tree'
+}
+item {
+  id: 170
+  name: 'vegetable'
+}
+item {
+  id: 171
+  name: 'wall'
+}
+item {
+  id: 172
+  name: 'wall'
+}
+item {
+  id: 173
+  name: 'wall'
+}
+item {
+  id: 174
+  name: 'wall'
+}
+item {
+  id: 175
+  name: 'wall'
+}
+item {
+  id: 176
+  name: 'wall'
+}
+item {
+  id: 177
+  name: 'wall'
+}
+item {
+  id: 178
+  name: 'water'
+}
+item {
+  id: 179
+  name: 'waterdrops'
+}
+item {
+  id: 180
+  name: 'window'
+}
+item {
+  id: 181
+  name: 'window'
+}
+item {
+  id: 182
+  name: 'wood'
+}
+item {
+  id: 183
+  name: 'tissue'
+}
