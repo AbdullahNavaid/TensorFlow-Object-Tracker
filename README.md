@@ -45,13 +45,13 @@ To run the project, follow these steps:
 
 1. Install the **IP Webcam** app on your phone from the Google Play Store.
 2. Open the app and start the server. Make sure your phone and laptop are connected to the same network.
-3. Once the server starts, note down the **IPv4 address** provided by the app (e.g., `http://192.168.1.x:8080`).
+3. Once the server starts, note down the **IPv4 address** provided by the app (e.g., `http://x.x.x.x:x`).
 
 ### Running the Object Tracking Script
 
 1. Update the video source in the `object_tracker.py` script to use the IP Webcam stream. Replace the placeholder URL with your phone’s IPv4 address:
     ```python
-    video_url = 'http://192.168.1.x:8080/video'  # Replace with your phone's IPv4 link
+    video_url = 'http://x.x.x.x:x/video'  # Replace with your phone's IPv4 link
     ```
 
 2. Run the object detection and tracking script:
